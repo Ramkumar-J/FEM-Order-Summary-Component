@@ -71,6 +71,8 @@ body {
 }
 .plan-info .plan-type {
   color: var(--dark-blue);
+  font-size: 1rem;
+  font-weight: 900;
 }
 .plan-info .plan-price {
   color: var(--desaturated-blue);
